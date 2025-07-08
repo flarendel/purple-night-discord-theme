@@ -209,8 +209,8 @@ body {
   --yellow-4: hsl(35, 70%, 50%);
   --yellow-5: hsl(35, 70%, 45%);
 
-  --purple-1: hsl(267, 84%, 71%); /* based on bb9af7 */
-  --purple-2: hsl(267, 84%, 66%);
+  --purple-1: hsl(267, 76%, 80.4%); /* based on bb9af7 */
+  --purple-2: hsl(267, 81.5%, 74.5%);
   --purple-3: hsl(267, 75.4%, 74.5%);
   --purple-4: hsl(267, 79.9%, 68.8%);
   --purple-5: hsl(267, 82.5%, 64.1%);
@@ -248,7 +248,7 @@ pre {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: hsla(287, 23%, 30%, 0.5) !important;
+  background-color: hsla(287, 8.5%, 25.3%, 0.5) !important;
 }
 
 /* Add a subtle border to panels for Tokyo Night-like separation */
@@ -256,13 +256,13 @@ pre {
 .panels-j1Uci_,
 .sidebar-2K8pFh,
 .scroller-2LSbBU {
-  border-color: hsla(287, 23%, 15%, 0.8) !important;
+  border-color: hsla(287, 12.1%, 12.9%, 0.8) !important;
 }
 
 /* Button and interactive element highlights using Tokyo Night colors */
 .button-1YfofN:hover,
 .colorable-1bkp8v.primaryDark-3mSFDl:hover {
-  background-color: var(--blue-3) !important;
+  background-color: var(--purple-3) !important;
 }
 
 /* Improved channel list styling */
@@ -288,7 +288,7 @@ pre {
 
 /* Improve highlight colors for mentions and code */
 .mention {
-  background-color: hsla(279, 89%, 66%, 0.3) !important;
+  background-color: hsla(279, 80%, 80%, 0.3) !important;
   color: var(--blue-1) !important;
 }
 
