@@ -211,9 +211,9 @@ body {
 
   --purple-1: hsl(267, 84%, 71%); /* based on bb9af7 */
   --purple-2: hsl(267, 84%, 66%);
-  --purple-3: hsl(267, 84%, 61%);
-  --purple-4: hsl(267, 84%, 56%);
-  --purple-5: hsl(267, 84%, 51%);
+  --purple-3: hsl(267, 75.4%, 74.5%);
+  --purple-4: hsl(267, 79.9%, 68.8%);
+  --purple-5: hsl(267, 82.5%, 64.1%);
 
   /* Extra colors from Tokyo Night VS Code theme */
   --cyan-1: hsl(191, 97%, 65%); /* based on 7dcfff */
