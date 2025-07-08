@@ -108,9 +108,9 @@ body {
 
   /* background and dark colors */
   --bg-1: hsla(
-    271,
-    12.8%,
-    26.1%,
+    287, 
+    0%, 
+    5.9%
     1
   ); /* dark buttons when clicked - based on 232433 */
   --bg-2: hsla(287, 22%, 16%, 1); /* dark buttons - based on 16161e */
